@@ -13,3 +13,6 @@
 [submodule "EuroTubeScreamer"]
 	path = EuroTubeScreamer
 	url = https://github.com/fablabnk/EuroTubeScreamer.git
+[submodule "VaseProtoPlugin"]
+	path = VaseProtoPlugin
+	url = https://github.com/fablabnk/VaseProtoPlugin.git
