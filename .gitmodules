@@ -7,3 +7,6 @@
 [submodule "DaisyDelayHardware"]
 	path = DaisyDelayHardware
 	url = https://github.com/fablabnk/DaisyDelayHardware.git
+[submodule "EuroAvalanche"]
+	path = EuroAvalanche
+	url = https://github.com/fablabnk/EuroAvalanche.git
