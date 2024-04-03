@@ -16,3 +16,6 @@
 [submodule "VaseProtoPlugin"]
 	path = VaseProtoPlugin
 	url = https://github.com/fablabnk/VaseProtoPlugin.git
+[submodule "vcv_daisypatch"]
+	path = vcv_daisypatch
+	url = https://github.com/fablabnk/vcv_daisypatch.git
