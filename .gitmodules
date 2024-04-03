@@ -10,3 +10,6 @@
 [submodule "EuroAvalanche"]
 	path = EuroAvalanche
 	url = https://github.com/fablabnk/EuroAvalanche.git
+[submodule "EuroTubeScreamer"]
+	path = EuroTubeScreamer
+	url = https://github.com/fablabnk/EuroTubeScreamer.git
