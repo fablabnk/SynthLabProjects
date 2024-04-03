@@ -4,3 +4,6 @@
 [submodule "HagiwoClockMultiDivide"]
 	path = HagiwoClockMultiDivide
 	url = https://github.com/fablabnk/HagiwoClockMultiDivide.git
+[submodule "DaisyDelayHardware"]
+	path = DaisyDelayHardware
+	url = https://github.com/fablabnk/DaisyDelayHardware.git
