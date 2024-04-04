@@ -19,3 +19,6 @@
 [submodule "vcv_daisypatch"]
 	path = vcv_daisypatch
 	url = https://github.com/fablabnk/vcv_daisypatch.git
+[submodule "PhaserPedal"]
+	path = PhaserPedal
+	url = https://github.com/fablabnk/PhaserPedal
