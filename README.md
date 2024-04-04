@@ -1,5 +1,8 @@
 This repo collects together all the currently active SynthLab projects as submodules
 
+After cloning this repo, don't forget to initialise and update the submodules as follows:
+`git submodule update --init --recursive`
+
 - [HagiwoMixer](https://github.com/fablabnk/HigawoMixer): a PCB version of Hagiwo's Eurorack mixer - completed so as to learn how to have PCBs manufactured
 - [HagiwoClockMultiDivide](https://github.com/fablabnk/HagiwoClockMultiDivide): a PCB version of Hagiwo's Clock Multi Divide Eurorack module - completed so as to learn how to have PCBs manufactured
 - [EuroAvalanche](https://github.com/fablabnk/EuroAvalanche): a schematic and PCB layout for a Eurorack module based on a reverse avalance oscillator - completed so as to learn how to have PCBs manufactured
