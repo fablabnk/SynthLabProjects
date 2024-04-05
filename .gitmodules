@@ -22,3 +22,6 @@
 [submodule "PhaserPedal"]
 	path = PhaserPedal
 	url = https://github.com/fablabnk/PhaserPedal
+[submodule "EurorackKicadTemplates"]
+	path = EurorackKicadTemplates
+	url = https://github.com/fablabnk/EurorackKicadTemplates
