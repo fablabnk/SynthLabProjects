@@ -1,6 +1,3 @@
-[submodule "HigawoMixer"]
-	path = HigawoMixer
-	url = https://github.com/fablabnk/HigawoMixer.git
 [submodule "HagiwoClockMultiDivide"]
 	path = HagiwoClockMultiDivide
 	url = https://github.com/fablabnk/HagiwoClockMultiDivide.git
