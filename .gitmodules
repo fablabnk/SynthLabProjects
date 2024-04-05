@@ -22,3 +22,6 @@
 [submodule "EurorackKicadTemplates"]
 	path = EurorackKicadTemplates
 	url = https://github.com/fablabnk/EurorackKicadTemplates
+[submodule "HagiwoMixer"]
+	path = HagiwoMixer
+	url = https://github.com/fablabnk/HagiwoMixer
