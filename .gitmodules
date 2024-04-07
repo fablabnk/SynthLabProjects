@@ -25,3 +25,6 @@
 [submodule "HagiwoMixer"]
 	path = HagiwoMixer
 	url = https://github.com/fablabnk/HagiwoMixer
+[submodule "KiCadCircuitSimulation"]
+	path = KiCadCircuitSimulation
+	url = https://github.com/fablabnk/KiCadCircuitSimulation
