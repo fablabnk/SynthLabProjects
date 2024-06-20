@@ -28,3 +28,6 @@
 [submodule "KiCadCircuitSimulation"]
 	path = KiCadCircuitSimulation
 	url = https://github.com/fablabnk/KiCadCircuitSimulation
+[submodule "ArduinoDrumMachine"]
+	path = ArduinoDrumMachine
+	url = https://github.com/fablabnk/ArduinoDrumMachine
