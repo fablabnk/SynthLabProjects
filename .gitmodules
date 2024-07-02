@@ -37,3 +37,6 @@
 [submodule "AxisFace"]
 	path = AxisFace
 	url = https://github.com/fablabnk/AxisFace
+[submodule "3PDT_LEDTrueBypass"]
+	path = 3PDT_LEDTrueBypass
+	url = https://github.com/fablabnk/3PDT_LEDTrueBypass
