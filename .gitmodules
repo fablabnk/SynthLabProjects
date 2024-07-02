@@ -34,3 +34,6 @@
 [submodule "Rack42"]
 	path = Rack42
 	url = https://github.com/fablabnk/Rack42
+[submodule "AxisFace"]
+	path = AxisFace
+	url = https://github.com/fablabnk/AxisFace
