@@ -43,3 +43,6 @@
 [submodule "HagiwoHatNoise_SMT"]
 	path = HagiwoHatNoise_SMT
 	url = https://github.com/fablabnk/HagiwoHatNoise_SMT
+[submodule "HagiwoHatNoise_THT"]
+	path = HagiwoHatNoise_THT
+	url = https://github.com/fablabnk/HagiwoHatNoise_THT
