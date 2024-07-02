@@ -40,3 +40,6 @@
 [submodule "3PDT_LEDTrueBypass"]
 	path = 3PDT_LEDTrueBypass
 	url = https://github.com/fablabnk/3PDT_LEDTrueBypass
+[submodule "HagiwoHatNoise_SMT"]
+	path = HagiwoHatNoise_SMT
+	url = https://github.com/fablabnk/HagiwoHatNoise_SMT
