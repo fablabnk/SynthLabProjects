@@ -55,3 +55,6 @@
 [submodule "KS-20_VCF"]
 	path = KS-20_VCF
 	url = https://github.com/fablabnk/KS-20_VCF
+[submodule "AudioDevPlatforms"]
+	path = AudioDevPlatforms
+	url = https://github.com/fablabnk/AudioDevPlatforms
