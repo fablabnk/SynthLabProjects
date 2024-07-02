@@ -49,3 +49,6 @@
 [submodule "HagiwoKick_THT"]
 	path = HagiwoKick_THT
 	url = https://github.com/fablabnk/HagiwoKick_THT
+[submodule "8BitWaves"]
+	path = 8BitWaves
+	url = https://github.com/fablabnk/8BitWaves
