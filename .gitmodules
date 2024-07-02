@@ -46,3 +46,6 @@
 [submodule "HagiwoHatNoise_THT"]
 	path = HagiwoHatNoise_THT
 	url = https://github.com/fablabnk/HagiwoHatNoise_THT
+[submodule "HagiwoKick_THT"]
+	path = HagiwoKick_THT
+	url = https://github.com/fablabnk/HagiwoKick_THT
