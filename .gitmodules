@@ -52,3 +52,6 @@
 [submodule "8BitWaves"]
 	path = 8BitWaves
 	url = https://github.com/fablabnk/8BitWaves
+[submodule "KS-20_VCF"]
+	path = KS-20_VCF
+	url = https://github.com/fablabnk/KS-20_VCF
